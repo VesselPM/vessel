@@ -60,7 +60,7 @@ entry = "/usr/bin/obsidian"
 arch = ["x86_64"]
 
 [deps]
-vessels = ["org.example.'/libfoo"]
+vessels = ["org.example.libfoo"]
 system = ["/usr/lib/libssl.so.3"]
 
 [expose]
