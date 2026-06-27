@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Vessel
+Comment=Almost-sandboxed package runtime
+Exec=vessel tui
+Terminal=true
+Categories=System;PackageManager;
